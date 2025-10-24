@@ -11,7 +11,7 @@ Growth Analysis: Month-over-month and year-over-year trends showed steady sales 
 # Outcome:  
 This project helped identify profitable products, optimize discount strategies, and highlight areas for improvement in return management and marketing focus.  
 
-#Tools & Skills Used:
+# Tools & Skills Used:
 SQL | Power BI | Data Modeling | DAX | KPI Design | Visualization | Business Insights
 
 # Conclusion:
